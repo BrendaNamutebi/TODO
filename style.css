@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+body{
+    padding: 20px;
+    margin: auto;
+    font-style: normal;
+    background-color: rgb(5, 5, 69);
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+ul{
+    font-size: 30px;
+}
+form{
+    font-size: 20px;
+}
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+    color: rgb(240, 4, 4);
+}
+button{
+    width: 60px;
+    height: 30px;
+}
